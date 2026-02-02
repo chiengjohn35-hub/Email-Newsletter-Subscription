@@ -45,3 +45,11 @@ cd backend
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+
+### Front-end(React.js)
+
+```bash
+cd frontend
+npm install
+npm run dev 
